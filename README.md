@@ -33,7 +33,9 @@ Dataset link :- https://www.kaggle.com/code/scsaurabh/red-wine-quality-analysis-
    12.  quality (score between 0 and 10)
    13.  Steps to follow:- Import Libraries Import Dataset Data Exploration Exploratory Data Analysis Data Cleaning & Preprocessing Model Building Result Testing Conclusion
 
-#Conclusion
+# Conclusion
+
+
 We observed the key factors that determine and affects the quality of the red wine. Wine quality is ultimately a subjective measure. The ordered factor 'quality' was not very helpful and to overcome this, so we created another variable called 'rating'. To make predictions of wine quality and any other if required, we trained following models 'LogisticRegression','DecisionTree', 'RandomForestClassifier', 'Support Vector Classifier', 'KNearestNeighbors', 'AdaBoostClassifier','GaussianNB'. The Random Forest Classifier performed better its accuracy is 87.75% and we decided to stick with it. The usage of this analysis will help to understand whether by modifying the variables, it is possible to increase the quality of the wine on the market. If you can control your variables, then you can predict the quality of your wine and obtain more profits.
 
  
